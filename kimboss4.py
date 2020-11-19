@@ -1,5 +1,3 @@
-<?php
-
 
 require_once 'src/Class_Ultimate_SMS_API.php';
 use UltimateSMS\UltimateSMSAPI;
